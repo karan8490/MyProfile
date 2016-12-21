@@ -8,8 +8,6 @@
   "dependencies": {
     "express": "3.2.6",
     "serve-favicon":"2.3.0",
-    "node.json" : "9.12.3",
-    "consolidate" : "0.14.5",
-    "swig" : "1.4.2"
+    "node.json" : "9.12.3"
   }
 }
