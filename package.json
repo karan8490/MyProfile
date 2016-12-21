@@ -1,0 +1,15 @@
+{
+  "name": "MyProfile",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.2.6",
+    "serve-favicon":"2.3.0",
+    "node.json" : "9.12.3",
+    "consolidate" : "0.14.5",
+    "swig" : "1.4.2"
+  }
+}
